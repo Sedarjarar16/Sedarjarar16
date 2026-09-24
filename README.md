@@ -83,20 +83,7 @@ An eco-friendly house project designed to reduce energy and water consumption us
 </td>
 </tr>
 </table>
-<h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sedarjarar16&show_icons=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sedarjarar16&layout=compact&hide_border=true" height="170" />
-</p>
-<h2>🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sedarjarar16&hide_border=true" />
-</p>
-<h2>🎓 Education & Achievements</h2>
-
-<ul>
   <li>🎓 Third-ranked student in the Computer Engineering cohort at The Hashemite University</li>
   <li>📚 Excellent GPA with consistently strong academic performance</li>
   <li>🏆 2nd Place — Zarqa University 7th Creative Conference</li>
