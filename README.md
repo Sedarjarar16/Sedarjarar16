@@ -25,16 +25,83 @@ and real-world experience.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,github,vscode" />
 </p>
+<h2>📌 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🖥️ RISC-V Project
+A digital systems project focused on RISC-V architecture and hardware design.
+
+*Tech:* Verilog, Verilator, Digital Systems
+
+</td>
+
+<td width="50%">
+
+### 🏆 JOSDC Hackathon
+A hackathon project developed as part of the Jordan Open Source Developers Community.
+
+*Tech:* Software Development, Programming
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI House Price Prediction
+A machine learning project for predicting house prices based on different features and data patterns.
+
+*Tech:* Python, Pandas, Scikit-learn
+
+</td>
+
+<td width="50%">
+
+### 🎮 Minecraft Project
+A programming project developed around Minecraft and interactive digital environments.
+
+*Tech:* Programming, Minecraft
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏠 Energy-Efficient House
+An eco-friendly house project designed to reduce energy and water consumption using solar energy, sensors, and smart systems.
+
+*Tech:* Electronics, Sensors, Renewable Energy
+
+</td>
+
+<td width="50%">
+
+</td>
+</tr>
+</table>
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sedarjarar16&show_icons=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sedarjarar16&layout=compact&hide_border=true" height="170" />
+</p>
+<h2>🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sedarjarar16&hide_border=true" />
+</p>
 <h2>🎓 Education & Achievements</h2>
 
 <ul>
-  <li>🎓 Fourth-year Computer Engineering student at The Hashemite University</li>
+  <li>🎓 Third-ranked student in the Computer Engineering cohort at The Hashemite University</li>
+  <li>📚 Excellent GPA with consistently strong academic performance</li>
   <li>🏆 2nd Place — Zarqa University 7th Creative Conference</li>
-  <li>⭐ College of Engineering Honor Board</li>
-  <li>📚 Excellent academic performance throughout my university studies</li>
   <li>💡 IEEE SIGHT — Graphic Design Officer & Volunteer</li>
+  <li>📝 ELCOM Committee — Contributed to preparing and sharing course summaries for students</li>
 </ul>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=verilog" />
 </p>
